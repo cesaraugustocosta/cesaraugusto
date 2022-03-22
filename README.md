@@ -1,6 +1,24 @@
+# Welcome!
+
 # Olá! Meu nome é Cesar Augusto🤗
 - 🚀 Hoje trabalho como Freela, desenvolvendo Sites institucionais para empresas.
 - 👩‍💻 Estudando diversas linguagens de programação.
+- :computer: I'm Front-End Developer!
+- :house_with_garden: I’m from Brazil.
+- :books: I’m currently learning everything.
+##
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
+##
+[![cesaraugustocosta GitHub stats](https://github-readme-stats.vercel.app/api?username=cesaraugustocosta)](https://github.com/cesarmas/github-readme-stats)
 <div>
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
 </div>

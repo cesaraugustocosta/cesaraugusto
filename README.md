@@ -1,18 +1,12 @@
 # Olá! Meu nome é Cesar Augusto🤗
-- 🚀 Hoje trabalho como Freela, desenvolvendo Sites institucionais para empresas.
-- 👩‍💻 Estudando diversas linguagens de programação.
-- :computer: I'm Front-End Developer!
-- :house_with_garden: I’m from Brazil.
-- :books: I’m currently learning everything.
 ## About me
+- :house_with_garden: Eu moro em Florianópolis-SC, Brasil.
+- :computer: Hoje trabalho como Freela, desenvolvendo Sites institucionais para empresas.
+- 👩‍💻 Estudando diversas linguagens de programação.
+- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cesaraugustocosta)](https://github.com/cesaraugustocosta) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cesar-a-da-costa-ba905177/)](https://www.linkedin.com/in/cesar-a-da-costa-ba905177/)
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
-
-- Thanks for visiting.
-
-- Enjoy it!! o/
+- Obrigado por visitar-me.
 ##
 [![cesaraugustocosta GitHub stats](https://github-readme-stats.vercel.app/api?username=cesaraugustocosta)](https://github.com/cesarmas/github-readme-stats)
 <div>

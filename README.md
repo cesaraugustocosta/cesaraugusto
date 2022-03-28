@@ -1,5 +1,5 @@
 # Olá! Meu nome é Cesar Augusto🤗
-## Sobre 
+## Sobre Mim
 - 👨‍🎓 Formado em Sistemas de informação, pela Urcamp-RS.
 - 👨‍🔬 Pós-Graduação em Ciência de Dados e Big Data Analytics, pela Faculdade Metropolitana
 - :house_with_garden: Eu moro em Florianópolis-SC, Brasil.
@@ -13,8 +13,8 @@
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cesaraugustocosta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cesaraugustocosta&layout=compact&langs_count=7&theme=dracula"/>
-### Principais linguagens de Programação que tenho estudado e já trabalhei
-<div style="display: inline_block"><br>
+ <h4>Principais linguagens de Programação que tenho estudado e já trabalhei</h4>
+<div style="display: inline_block"><br> 
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -29,7 +29,7 @@
 
 
 ## Encontre-me nas Redes Sociais
-<img src="https://cdn-icons-png.flaticon.com/128/1384/1384168.png" data-src="https://cdn-icons-png.flaticon.com/128/1384/1384168.png" alt="facebook" title="facebook" width="28" height="28" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/1384/1384168.png 4x"> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384079.png" data-src="https://cdn-icons-png.flaticon.com/128/1384/1384079.png" alt="whatsapp" title="whatsapp" width="28" height="28" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/1384/1384079.png 4x"> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384172.png" data-src="https://cdn-icons-png.flaticon.com/128/1384/1384172.png" alt="instagram" title="instagram" width="28" height="28" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/1384/1384172.png 4x"> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384169.png" data-src="https://cdn-icons-png.flaticon.com/128/1384/1384169.png" alt="youtube" title="youtube" width="30" height="30" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/1384/1384169.png 4x">
+<img src="https://cdn-icons-png.flaticon.com/128/1384/1384168.png" data-src="https://cdn-icons-png.flaticon.com/128/1384/1384168.png" alt="facebook" title="facebook" width="28" height="28" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/1384/1384168.png 4x" alt="Facebook"> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384079.png" data-src="https://cdn-icons-png.flaticon.com/128/1384/1384079.png" alt="whatsapp" title="whatsapp" width="28" height="28" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/1384/1384079.png 4x" alt="Whatsapp"> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384172.png" data-src="https://cdn-icons-png.flaticon.com/128/1384/1384172.png" alt="instagram" title="instagram" width="28" height="28" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/1384/1384172.png 4x" alt="Instagram"> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384169.png" data-src="https://cdn-icons-png.flaticon.com/128/1384/1384169.png" alt="youtube" title="youtube" width="30" height="30" class="lzy lazyload--done" srcset="https://cdn-icons-png.flaticon.com/128/1384/1384169.png 4x" alt="You Tube">
 
 
 

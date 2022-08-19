@@ -3,7 +3,7 @@
 - 👨‍🎓 Formado em Sistemas de informação, pela Urcamp-RS.
 - 👨‍🔬 Pós-Graduação em Ciência de Dados e Big Data Analytics, pela Faculdade Metropolitana
 - :house_with_garden: Eu moro em Florianópolis-SC, Brasil.
-- :computer: Hoje trabalho com desenvolvimento web no Ibrep, e como freela desenvolvendo Sites institucionais para empresas.
+- :computer: Hoje trabalho como freela desenvolvendo Sites institucionais para empresas.
 - 👩‍💻 Estudando diversas linguagens de programação.
 - Obrigado por visitar-me 
 - [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/cesaraugustocosta)](https://github.com/cesaraugustocosta) 

@@ -1,4 +1,5 @@
-# Olá! Meu nome é Cesar Augusto🤗
+# Olá! Meu nome é Cesar Augusto🤗, Seja bem-vindo(a)🤗
+#desenvolvimentoweb - #backendPHP - #frontend - #desenvolvimentofullstack
 ## Sobre Mim
 - 👨‍🎓 Formado em Sistemas de informação, pela Urcamp-RS.
 - 👨‍🔬 Pós-Graduação em Ciência de Dados e Big Data Analytics, pela Faculdade Metropolitana

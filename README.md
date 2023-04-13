@@ -24,7 +24,7 @@
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="http://api.kanni.pro/uploads/about/skills/programming/mysql.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="http://api.kanni.pro/uploads/about/skills/programming/php.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;">
+  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"><br><br>
 </div>
      <img src="https://i.pinimg.com/originals/c9/b2/81/c9b2812d066f8a62ddd0a9f9341eba4d.gif" jsaction="load:XAeZkd;" jsname="HiaYvf" class="n3VNCb" alt="Imgur: The most awesome images on the Internet. | Star wars humor, Star  wars film, Star wars fans" data-noaft="1" style="width: 200.6667px; height: 250px; margin: 1.7px 0px;">
 </div> 

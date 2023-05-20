@@ -3,7 +3,7 @@
 ## Sobre Mim
 - 👨‍🎓 Formado em Sistemas de informação, pela Urcamp-RS.
 - 👨‍🔬 Pós-Graduação em Ciência de Dados e Big Data Analytics, pela Faculdade Metropolitana
-- :house_with_garden: Eu moro em Florianópolis-SC, Brasil.
+- :house_with_garden: Moro em Florianópolis-SC, Brasil.
 - :computer: Hoje trabalho como freela desenvolvendo Sites institucionais para empresas.
 - 👩‍💻 Estudando diversas linguagens de programação.
 - Obrigado por visitar-me 
